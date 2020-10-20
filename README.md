@@ -1,2 +1,3 @@
 # -Lovely-Phone-Fitting-technical-support
 “Lovely Phone Fitting”technical support
+“Lovely Phone Fitting” is an application specially used for purchasing mobile phone accessories. We classify various types of mobile phone accessories to facilitate users to quickly find the mobile phone accessories they want. We also provide shopping cart function to enable users to operate products in batches. At the same time, we also provide address editing function. Users can freely add their own address. In the address list, users can select to delete address or edit address by left stroke. The operation is simple and fast…For any comments and suggestions, please contact us: "Lovely Phone Fitting" official email:huayixianke@163.com
